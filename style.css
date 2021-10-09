@@ -1,0 +1,16 @@
+ .omen {
+    color: rgb(130, 202, 130);
+    text-align: center;
+    list-style-type: none;
+}
+.img {
+    display: block; margin: 0 auto;
+    list-style-type: none;
+}
+table {
+    border-collapse: collapse;
+    /*убираем пустые промежутки между ячейками*/
+    border: 1px solid grey;
+    /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
+    width: 600px;
+ }
